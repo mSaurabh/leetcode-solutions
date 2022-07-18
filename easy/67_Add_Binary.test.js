@@ -1,4 +1,4 @@
-const addBinary = require("./67_Add_Binary");
+const addBinary = require("./67_Add_Binary_SM_7182022_v1");
 
 describe("Testing Binary Addition", () => {
   // #region TEST1 "11"+"1"
