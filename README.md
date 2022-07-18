@@ -31,6 +31,7 @@
         - Initials = your initials
         - Date = Your local Date in mmddyyyy format
         - v# = version number
+- As far as test cases go, just add your test case inside the already existing test case file and make sure it works before submitting the PR. Thanks!
 
 > ## Finally, Good Luck with your Interview!!
 
